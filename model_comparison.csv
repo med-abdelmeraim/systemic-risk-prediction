@@ -1,0 +1,4 @@
+Model,Test_Accuracy
+Random Forest,1.0
+Gradient Boosting,1.0
+Logistic Regression,1.0
